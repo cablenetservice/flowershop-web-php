@@ -1,0 +1,236 @@
+Uri: https://flowershopesn.z9.web.core.windows.net/
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\index.htm
+Content Type: text/html
+
+Uri: https://flowershopesn.z9.web.core.windows.net/code.jquery.com/jquery-1.12.0.min.html
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\code.jquery.com\jquery-1.12.0.min.html
+Content Type: text/html
+
+Uri: https://flowershopesn.z9.web.core.windows.net/css/all.min.css
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\css\all.min.css
+Content Type: text/css
+
+Uri: https://flowershopesn.z9.web.core.windows.net/css/Base.css
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\css\Base.css
+Content Type: text/css
+
+Uri: https://flowershopesn.z9.web.core.windows.net/css/bootstrap-icons.css
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\css\bootstrap-icons.css
+Content Type: text/css
+
+Uri: https://flowershopesn.z9.web.core.windows.net/css/bootstrap.min.css
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://flowershopesn.z9.web.core.windows.net/css/globalnav/bag/image_small.html
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\css\globalnav\bag\image_small.html
+Content Type: text/html
+
+Uri: https://flowershopesn.z9.web.core.windows.net/css/globalnav/links/music/image_small.html
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\css\globalnav\links\music\image_small.html
+Content Type: text/html
+
+Uri: https://flowershopesn.z9.web.core.windows.net/css/globalnav/links/support/image_small.html
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\css\globalnav\links\support\image_small.html
+Content Type: text/html
+
+Uri: https://flowershopesn.z9.web.core.windows.net/css/globalnav/links/tv/image_small.html
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\css\globalnav\links\tv\image_small.html
+Content Type: text/html
+
+Uri: https://flowershopesn.z9.web.core.windows.net/css/globalnav/links/watch/image_small.html
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\css\globalnav\links\watch\image_small.html
+Content Type: text/html
+
+Uri: https://flowershopesn.z9.web.core.windows.net/fonts/bootstrap-icons.woff
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\fonts\bootstrap-icons.woff
+Content Type: application/font-woff
+
+Uri: https://flowershopesn.z9.web.core.windows.net/fonts/bootstrap-icons.woff2
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\fonts\bootstrap-icons.woff2
+Content Type: application/octet-stream
+
+Uri: https://flowershopesn.z9.web.core.windows.net/fonts/fa-brands-400.ttf
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\fonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://flowershopesn.z9.web.core.windows.net/fonts/fa-brands-400.woff2
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\fonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://flowershopesn.z9.web.core.windows.net/fonts/fa-regular-400.ttf
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\fonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://flowershopesn.z9.web.core.windows.net/fonts/fa-regular-400.woff2
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\fonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://flowershopesn.z9.web.core.windows.net/fonts/fa-solid-900.ttf
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\fonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://flowershopesn.z9.web.core.windows.net/fonts/fa-solid-900.woff2
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\fonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://flowershopesn.z9.web.core.windows.net/fonts/fa-v4compatibility.ttf
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\fonts\fa-v4compatibility.ttf
+Content Type: application/octet-stream
+
+Uri: https://flowershopesn.z9.web.core.windows.net/fonts/fa-v4compatibility.woff2
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\fonts\fa-v4compatibility.woff2
+Content Type: application/octet-stream
+
+Uri: https://flowershopesn.z9.web.core.windows.net/icon_reset_small.html
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\icon_reset_small.html
+Content Type: text/html
+
+Uri: https://flowershopesn.z9.web.core.windows.net/images/applelogo.png
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\images\applelogo.png
+Content Type: image/png
+
+Uri: https://flowershopesn.z9.web.core.windows.net/images/applelogo2.png
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\images\applelogo2.png
+Content Type: image/png
+
+Uri: https://flowershopesn.z9.web.core.windows.net/images/apple_pay.png
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\images\apple_pay.png
+Content Type: image/png
+
+Uri: https://flowershopesn.z9.web.core.windows.net/images/arror.jpg
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\images\arror.jpg
+Content Type: image/jpeg
+
+Uri: https://flowershopesn.z9.web.core.windows.net/images/bg.jpg
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\images\bg.jpg
+Content Type: image/jpeg
+
+Uri: https://flowershopesn.z9.web.core.windows.net/images/favicon.ico
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\images\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://flowershopesn.z9.web.core.windows.net/images/messages.svg
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\images\messages.svg
+Content Type: image/svg+xml
+
+Uri: https://flowershopesn.z9.web.core.windows.net/image_large_1.html
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\image_large_1.html
+Content Type: text/html
+
+Uri: https://flowershopesn.z9.web.core.windows.net/image_large_2.html
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\image_large_2.html
+Content Type: text/html
+
+Uri: https://flowershopesn.z9.web.core.windows.net/image_large_3.html
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\image_large_3.html
+Content Type: text/html
+
+Uri: https://flowershopesn.z9.web.core.windows.net/image_large_4.html
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\image_large_4.html
+Content Type: text/html
+
+Uri: https://flowershopesn.z9.web.core.windows.net/image_large_5.html
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\image_large_5.html
+Content Type: text/html
+
+Uri: https://flowershopesn.z9.web.core.windows.net/image_large_6.html
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\image_large_6.html
+Content Type: text/html
+
+Uri: https://flowershopesn.z9.web.core.windows.net/image_large_7.html
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\image_large_7.html
+Content Type: text/html
+
+Uri: https://flowershopesn.z9.web.core.windows.net/image_large_8.html
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\image_large_8.html
+Content Type: text/html
+
+Uri: https://flowershopesn.z9.web.core.windows.net/image_large_9.html
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\image_large_9.html
+Content Type: text/html
+
+Uri: https://flowershopesn.z9.web.core.windows.net/image_small.html
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\image_small.html
+Content Type: text/html
+
+Uri: https://flowershopesn.z9.web.core.windows.net/image_small_1.html
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\image_small_1.html
+Content Type: text/html
+
+Uri: https://flowershopesn.z9.web.core.windows.net/image_small_2.html
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\image_small_2.html
+Content Type: text/html
+
+Uri: https://flowershopesn.z9.web.core.windows.net/image_small_3.html
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\image_small_3.html
+Content Type: text/html
+
+Uri: https://flowershopesn.z9.web.core.windows.net/js/bootstrap.min.js
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\js\bootstrap.min.js
+Content Type: text/javascript
+
+Uri: https://flowershopesn.z9.web.core.windows.net/js/popper.min.js
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\js\popper.min.js
+Content Type: text/javascript
+
+Uri: https://flowershopesn.z9.web.core.windows.net/media/LhlCcb3bW5w3.mp3
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\media\LhlCcb3bW5w3.mp3
+Content Type: audio/mpeg
+
+Uri: https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&amp;display=swap
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjaVc.ttf
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\s\opensans\v44\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkaVc.ttf
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\s\opensans\v44\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkaVc.ttf
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\s\opensans\v44\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjaVc.ttf
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\s\opensans\v44\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjaVc.ttf
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\s\opensans\v44\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk_RkaVc.ttf
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\s\opensans\v44\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk_RkaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\s\opensans\v44\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n.ttf
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\s\opensans\v44\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1y4n.ttf
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\s\opensans\v44\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4n.ttf
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\s\opensans\v44\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0C4n.ttf
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\s\opensans\v44\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\s\opensans\v44\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-2DMKRPGVF0
+File Name: E:\Websites\Pop-up\flowershopesn.z9.web.core.windows.net\gtag\js
+Content Type: application/javascript
+
