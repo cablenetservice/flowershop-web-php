@@ -19,13 +19,13 @@
     <link rel="stylesheet" href="css/Base.css" type="text/css">
 
 <!-- Google tag (gtag.js) -->
-<script async="" src="gtag/js?id=G-2DMKRPGVF0"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-LBFM2J1KH4"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-2DMKRPGVF0');
+  gtag('config', 'G-LBFM2J1KH4');
 </script>
   
 
